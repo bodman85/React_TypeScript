@@ -1,3 +1,7 @@
 npm create vite@latest react-ts-basics
+
+npm install @reduxjs/toolkit
+npm install @reduxjs/toolkit react-redux
+
 npm install
 npm run dev
